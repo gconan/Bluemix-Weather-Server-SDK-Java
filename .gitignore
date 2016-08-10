@@ -12,6 +12,7 @@
 hs_err_pid*
 
 #eclipse
+clientdb.xml
 .metadata
 .settings
 .classpath
